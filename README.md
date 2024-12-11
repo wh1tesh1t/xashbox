@@ -27,7 +27,7 @@ cp -r * ../YOUR_GAME_DIR
 ```
 or
 ```
-mv * ..YOUR_GAME_DIR
+mv * ../YOUR_GAME_DIR
 ```
 
 ### Preview on Linux/Windows
@@ -35,7 +35,7 @@ Download from **releases or clone repository**
 Unzip archive into game dir
 Open game and type **touch_enable 1**
 Create local server and enjoy
-- Warning! it works only as preview
+- **Warning**! it works only as preview
 
 ### What is it?
 
