@@ -9,15 +9,9 @@ and modified by $_Vladislav for latest Xash3D versions
 
 # Download
 
-Clone Repository:
 ```
 git clone https://github.com/wh1tesh1t/xashbox
 ```
-
-# Android
-- Unzip Archive using **File Manager** or another **apk** into your game folder
-
-- Unzip using Termux:
 ```
 unzip xashbox.zip
 cd xashbox
@@ -30,12 +24,6 @@ or
 mv * ../YOUR_GAME_DIR
 ```
 
-### Preview on Linux/Windows
-Download from **releases or clone repository**
-Unzip archive into game dir
-Open game and type **touch_enable 1**
-Create local server and enjoy
-- **Warning**! it works only as preview
 
 ### What is it?
 
