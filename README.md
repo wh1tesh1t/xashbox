@@ -1,8 +1,5 @@
 Xashbox is **entity spawn** menu for Half-Life which uses **Entity Tools** feature from [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs)
 
-# Support for new engine
-i know about problems with new engine, fix it coming soon
-
 ### Authors
 - [w_sh1t](https://github.com/wh1tesh1t)
 - **Vladislav Syhov** | [Vladislav4KZ](https://github.com/Vladislav4KZ) — Modifed xashbox for Xash3D latest versions
