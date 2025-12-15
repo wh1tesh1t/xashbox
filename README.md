@@ -4,7 +4,7 @@ Xashbox is **entity spawn** menu for Half-Life which uses **Entity Tools** featu
 - [w_sh1t](https://github.com/wh1tesh1t)
 - **Vladislav Syhov** | [Vladislav4KZ](https://github.com/Vladislav4KZ) — Modifed xashbox for Xash3D latest versions
 - **Mikhail Stepanov** | **ahsim** — Founder of xashbox & customCMD
-- [Elinsrc](https//github.com/Elinsrc) | Founder of Axion-Client based on openag source code with Xash3D-FWGS/GoldSource support
+- [Elinsrc](https//github.com/Elinsrc) | Founder of Axion-Client is a modification of the Half-Life client for Xash3D FWGS and GoldSource, based on [hlsdk-portable](https://github.com/FWGS/hlsdk-portable) and [PrimeXT](https://github.com/SNMetamorph/PrimeXT)
 
 ### Note
 - I am not responsible for the use of XashBox & CustomCMD from other sources if they have been modified or changed at the request of other authors, and will recommend downloading only from trusted sources and refuse further assistance with any problems that arise.
@@ -29,5 +29,6 @@ mv */ ../YOUR_GAME_DIRECTORY/custom
 ```
 exec_menu imgui
 ```
+
 
 
