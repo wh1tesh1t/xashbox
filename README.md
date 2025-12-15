@@ -27,6 +27,7 @@ mv */ ../YOUR_GAME_DIRECTORY/custom
 
    You must make a touch button with the command
 ```
-exec_menu ximgui
+exec_menu imgui
 ```
+
 
